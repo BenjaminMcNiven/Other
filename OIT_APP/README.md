@@ -20,4 +20,4 @@ General Process for the Converter
   9. If so, it adds the corresponding character from the dictionary and subtracts the necessary amount.
   10. If it goes through the loop and nothing changed, it decrements the place variable by a factor of 10
   11. Once it finishes, the finished numeral is added to the list of all the numerals
-  12. After finishing all the conversions, it prints each numeral out on a separate line of an output file given by the name of the input file plus
+  12. After finishing all the conversions, it prints each numeral out on a separate line of an output file given by the name of the input file plus "_out.txt" to specify the output
