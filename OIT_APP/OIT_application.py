@@ -62,4 +62,3 @@ if __name__=="__main__":
         numbers=read_file(sys.argv[1])
         roman=create_roman(numbers)
         print_to_file(roman, sys.argv[1])
-        print(roman)
